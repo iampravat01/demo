@@ -9,3 +9,4 @@ I hope this isn't much of a problem
 ## Adding a new branch !
 This is bound to cause trouble!
 >>>>>>> very-bad
+This is a demo readme!
